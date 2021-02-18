@@ -1,4 +1,4 @@
-# Social_Media-ReactJS-ExpressJS-Redux
+# Social_Media_Application-ReactJS-ExpressJS-Redux--MERN
  This is a MERN, Social media application. Technology used, For frontend: REACT-JS, Backend: EXPRESS-JS, React state managment system: REDUX, Authentication: JsonWebToken & BcryptJs.
  
 ## Libaries and Frameworks:
