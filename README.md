@@ -17,6 +17,8 @@
 - User can have only access to edit & delete a post of his/her own creating posts. (have no access of editing, deleting in others post)
 - Mobile responsive web design.
 
+Live demo: https://agitated-mahavira-b6513d.netlify.app/
+
 ## Homepage (without user login)
 
 ![screencapture-localhost-3000-2021-02-18-22_56_52](https://user-images.githubusercontent.com/77459327/108402225-71a7d100-7247-11eb-86f9-72e027797580.png)
